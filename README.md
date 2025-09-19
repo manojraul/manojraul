@@ -53,7 +53,11 @@
 **<h1 align="center">Frontend + Backend + Databases + Cloud</h1>**
 
 
+## 🚀 Featured Projects 
 
+<a href="https://github.com/manojraul/Movie_recommendation_system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manojraul&repo=Movie_recommendation_system&theme=tokyonight" />
+  </a>
 
 
 
