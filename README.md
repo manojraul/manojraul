@@ -64,6 +64,14 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=manojraul&repo=Movie_recommendation_system&theme=tokyonight" />
   </a>
 
+  <a href="https://github.com/manojraul/AUTOMATED-REPORT-GENERATION">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manojraul&repo=AUTOMATED-REPORT-GENERATION&theme=tokyonight" />
+  </a>
+
+<a href="https://github.com/manojraul/API-INTEGRATION-AND-DATA-VISUALIZATION">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manojraul&repo=API-INTEGRATION-AND-DATA-VISUALIZATION&theme=tokyonight" />
+  </a>
+
 
 
 
