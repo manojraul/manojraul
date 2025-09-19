@@ -55,6 +55,11 @@
 
 ## 🚀 Featured Projects 
 
+
+<a href="https://github.com/manojraul/Financial_risk_management_and_analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manojraul&repo=Financial_risk_management_and_analysis&theme=tokyonight" />
+  </a>
+
 <a href="https://github.com/manojraul/Movie_recommendation_system">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=manojraul&repo=Movie_recommendation_system&theme=tokyonight" />
   </a>
