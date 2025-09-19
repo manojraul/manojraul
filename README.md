@@ -17,3 +17,37 @@
 - 🤝 Open to collaborating on **Open Source Projects**
 - 💬 Ask me about **Web Development, Python, Django, React, and Databases**
 - 📧 Reach me at: **manojroul38@gmail.com**
+
+
+
+## 🖥️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,fastapi,git,mysql,aws&theme=dark" />
+</p>
+
+
+## 🌐 My Developer Journey  
+
+### 🎨 Frontend  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashu-7683/ashu-7683/main/assets/Frontend.jpg" width="300" height="300" alt="Frontend"/>  
+</p>   
+
+**<h1 align="center">HTML | CSS | JavaScript | React | TailwindCSS<h1>**
+
+
+### ⚙️ Backend  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashu-7683/ashu-7683/main/assets/backend.jpg" width="300" height="300" alt="Backend"/>  
+</p>   
+
+**<h1 align="center">Python | Django | FastAPI</h1>**
+
+
+### 🌍 Fullstack  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashu-7683/ashu-7683/main/assets/fullstack.jpg" width="300" height="200" alt="Fullstack"/>  
+</p>  
+
+**<h1 align="center">Frontend + Backend + Databases + Cloud</h1>**
