@@ -62,7 +62,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/Manoj Kumar Raul" target="_blank">
-  <a href="www.linkedin.com/in/manoj-kumar-raul-8a3926325" target="_blank">
+  <a href="www.linkedin.com/in/manojkumarraul26325" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/manojraul" target="_blank">
@@ -75,4 +75,4 @@
 
 ---
 
-⭐ From [Manoj Kumar Raul](https://github.com/manojraul)  
+⭐ From [ManojKumarRaul](https://github.com/manojraul)  
